@@ -15,6 +15,7 @@ body {
   padding: 0 80px;
   background: url('./images/1.jpg') center no-repeat;
   background-size: cover;
+  text-shadow: #000 1px 0 10px;
 }
 
 .firstScreen h1 {
@@ -54,7 +55,7 @@ footer {
 
 @media screen and (max-width: 768px) {
   .firstScreen {
-    padding: 0 40px;
+    padding: 0 20px;
   }
 
   .section {
